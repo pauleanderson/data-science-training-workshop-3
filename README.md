@@ -1,2 +1,4 @@
-# transfer-learning-example
-Example of transfer learning for image classification
+# Transfer learning example
+Build an image classifier in five minutes using transfer learning!
+
+
